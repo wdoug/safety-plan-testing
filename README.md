@@ -1,6 +1,8 @@
-# webpack/react-starter
+# Personal Safety Plan Testing
 
-Starter template for react and webpack.
+This is a hacked together test of some ideas for an app to create a personalized safety plan.
+
+It is built on the [webpack/react-starter](https://github.com/webpack/react-starter)
 
 ## Features
 
@@ -143,7 +145,5 @@ SourceMaps contains your unminimized source code, so you need to restrict access
 
 
 ## License
-
-Copyright (c) 2012-2015 Tobias Koppers [![Gittip donate button](http://img.shields.io/gittip/sokra.png)](https://www.gittip.com/sokra/)
 
 MIT (http://www.opensource.org/licenses/mit-license.php)

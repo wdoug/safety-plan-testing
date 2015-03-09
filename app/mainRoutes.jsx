@@ -14,6 +14,7 @@ module.exports = (
 		<Route name="todolist" path="/:list" handler={require("./TodoList")} />
 		<Route name="todoitem" path="/todo/:item" handler={require("./TodoItem")} />
 		<Route name="home" path="/home" handler={require("./Home")} />
+    <Route name="page" path="/page/:index" handler={require("./components/UserPage")} />
 		<DefaultRoute handler={require("./Home")} />
 	</Route>
 );

@@ -10,3 +10,25 @@ body {
 	opacity: 0.2;
 	transition: opacity 600ms;
 }
+
+.page-container {
+  background-color: white;
+  padding: 20px;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #EEE;
+  color: black;
+  border-radius: 3px;
+  box-shadow: 0 2px #ccc;
+  position: relative;
+}
+
+.btn:active {
+  box-shadow: none;
+  top: 2px;
+}

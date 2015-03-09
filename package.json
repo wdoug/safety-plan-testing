@@ -1,5 +1,5 @@
 {
-  "name": "react-starter",
+  "name": "safety-plan-builder",
   "version": "0.0.0",
   "description": "",
   "main": "app/app.js",
@@ -11,14 +11,7 @@
     "start-dev": "node lib/server-development",
     "start": "node lib/server-production"
   },
-  "keywords": [
-    "webpack",
-    "react",
-    "starter",
-    "boilerplate",
-    "hot"
-  ],
-  "author": "Tobias Koppers @sokra",
+  "keywords": [],
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",
